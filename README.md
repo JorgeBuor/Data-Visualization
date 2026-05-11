@@ -76,7 +76,7 @@ This project analyzes university student data covering applications, admissions,
 ## Deployment
 
 The dashboard is deployed on **Streamlit Cloud**:  
-🔗 `data-visualization-wvdygv9fcynjvvcadewyml.streamlit.app`
+🔗 `https://data-visualization-wvdygv9fcynjvvcadewyml.streamlit.app`
 
 ---
 
