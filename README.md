@@ -1,7 +1,7 @@
 # 🎓 University Student Analytics Dashboard
 
 **Data Mining — Universidad de la Costa**  
-**Author:** Samuel
+**Author:** Jorge Estiiven Burgos Ortega
 
 ---
 
@@ -46,8 +46,8 @@ This project analyzes university student data covering applications, admissions,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/JorgeBuor/Data-Visualization.git
+   cd Data-Visualization
    ```
 
 2. Install dependencies:
@@ -76,7 +76,7 @@ This project analyzes university student data covering applications, admissions,
 ## Deployment
 
 The dashboard is deployed on **Streamlit Cloud**:  
-🔗 `https://your-app-name.streamlit.app` *(replace with actual URL after deployment)*
+🔗 `data-visualization-wvdygv9fcynjvvcadewyml.streamlit.app`
 
 ---
 
