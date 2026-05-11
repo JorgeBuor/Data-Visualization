@@ -38,6 +38,7 @@ This project analyzes university student data covering applications, admissions,
 ├── university_student_data.csv   # Dataset
 ├── requirements.txt              # Python dependencies
 └── README.md                     # This file
+└── Data_Visualization.ipynb      # Colab Notebook
 ```
 
 ---
